@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
+import TanstackProvider from './components/providers/tanstack-provider'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -16,7 +17,15 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <TanstackProvider>
+          <div className='flex justify-center font-sans'>
+            <div className="bg-slate-200 text-slate-900 w-[480px] h-full p-4 ">
+              {children}
+            </div>
+          </div>
+        </TanstackProvider>
+      </body>
     </html>
   )
 }

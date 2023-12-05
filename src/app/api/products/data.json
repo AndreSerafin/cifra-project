@@ -1,0 +1,41 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Banana da terra",
+        "slug": "banana-da-terra",
+        "price": 3.7,
+        "image": "/highlights_day/banana.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+        "featured": true
+      },
+      {
+        "id": 2,
+        "title": "Coca cola",
+        "slug": "coca-cola",
+        "price": 3.7,
+        "image": "/highlights_day/coca-cola.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+        "featured": true
+      },
+      {
+        "id": 3,
+        "title": "Leite",
+        "slug": "leite",
+        "price": 3.7,
+        "image": "/highlights_day/leite.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+        "featured": true
+      },
+      {
+        "id": 4,
+        "title": "Nutela",
+        "slug": "nutela",
+        "price": 3.7,
+        "image": "/highlights_day/nutela.png",
+        "description": "Moletom fabricado com 88% de algodão e 12% de poliéster.",
+        "featured": true
+      }
+      
+    ]
+  }
