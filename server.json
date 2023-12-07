@@ -1,0 +1,904 @@
+{
+    "featured-products": [
+        {
+            "id": "1",
+            "name": "coca cola",
+            "imageLink": "img_coca_cola",
+            "price": 4.0,
+            "weight": "150kg",
+            "description": "Refresque-se com a icônica Coca Cola. Uma bebida carbonatada e deliciosamente açucarada, perfeita para qualquer ocasião.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 3.70,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 4.20,
+                    "unit": "kg",
+                    "distance": "1.50 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 3.90,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 4.00,
+                    "unit": "kg",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 4.10,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 3.80,
+                    "unit": "kg",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 3.95,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 4.05,
+                    "unit": "kg",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 4.15,
+                    "unit": "kg",
+                    "distance": "1.70 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 3.85,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "banana da terra",
+            "imageLink": "img_banana",
+            "price": 1.0,
+            "weight": "150kg",
+            "description": "A banana-da-terra, também conhecida como plátano, é uma variedade de banana de grande porte, geralmente alongada e com casca grossa. Ela é conhecida por sua polpa firme e textura amilácea quando cozida, sendo uma parte importante da culinária de muitas regiões tropicais.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 0.80,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 1.10,
+                    "unit": "kg",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 1.00,
+                    "unit": "kg",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 1.20,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 1.15,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 1.05,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 1.25,
+                    "unit": "kg",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 1.30,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 1.35,
+                    "unit": "kg",
+                    "distance": "1.70 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 1.15,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "nutella",
+            "imageLink": "img_nutella",
+            "price": 4.0,
+            "weight": "150kg",
+            "description": "Desfrute da irresistível Nutella, uma deliciosa pasta de avelã com cacau. Perfeita para passar no pão, panquecas ou simplesmente saborear com uma colher.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 3.50,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 4.10,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 3.80,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 3.90,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 3.95,
+                    "unit": "kg",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 3.70,
+                    "unit": "kg",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 3.85,
+                    "unit": "kg",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 4.00,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 4.20,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 3.60,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "leite integral",
+            "imageLink": "img_leite",
+            "price": 4.0,
+            "weight": "150kg",
+            "description": "Experimente o leite integral, uma fonte nutritiva de cálcio e proteínas. Ideal para beber puro, adicionar ao café ou preparar deliciosas receitas.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 3.90,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 4.30,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 4.00,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 4.10,
+                    "unit": "kg",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 4.20,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 3.85,
+                    "unit": "kg",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 4.05,
+                    "unit": "kg",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 4.15,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 4.25,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 4.05,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "cerveja Heineken Pack (12 unidades)",
+            "imageLink": "img_heineken_pack",
+            "price": 35.0,
+            "weight": "12 unidades",
+            "description": "Desfrute da qualidade premium da cerveja Heineken. Este pack com 12 unidades é perfeito para compartilhar momentos especiais com amigos.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 32.50,
+                    "unit": "pack",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 36.00,
+                    "unit": "pack",
+                    "distance": "1.50 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 34.00,
+                    "unit": "pack",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 35.50,
+                    "unit": "pack",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 34.80,
+                    "unit": "pack",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 33.20,
+                    "unit": "pack",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 33.90,
+                    "unit": "pack",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 35.20,
+                    "unit": "pack",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 36.50,
+                    "unit": "pack",
+                    "distance": "1.70 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 33.70,
+                    "unit": "pack",
+                    "distance": "2.10 Km"
+                }
+            ]
+        }
+    ],
+    "products": [
+        {
+            "id": "1",
+            "name": "coca cola",
+            "imageLink": "img_coca_cola",
+            "price": 4.0,
+            "weight": "150kg",
+            "description": "Refresque-se com a icônica Coca Cola. Uma bebida carbonatada e deliciosamente açucarada, perfeita para qualquer ocasião.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 3.70,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 4.20,
+                    "unit": "kg",
+                    "distance": "1.50 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 3.90,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 4.00,
+                    "unit": "kg",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 4.10,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 3.80,
+                    "unit": "kg",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 3.95,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 4.05,
+                    "unit": "kg",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 4.15,
+                    "unit": "kg",
+                    "distance": "1.70 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 3.85,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "banana da terra",
+            "imageLink": "img_banana",
+            "price": 1.0,
+            "weight": "150kg",
+            "description": "A banana-da-terra, também conhecida como plátano, é uma variedade de banana de grande porte, geralmente alongada e com casca grossa. Ela é conhecida por sua polpa firme e textura amilácea quando cozida, sendo uma parte importante da culinária de muitas regiões tropicais.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 0.80,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 1.10,
+                    "unit": "kg",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 1.00,
+                    "unit": "kg",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 1.20,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 1.15,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 1.05,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 1.25,
+                    "unit": "kg",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 1.30,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 1.35,
+                    "unit": "kg",
+                    "distance": "1.70 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 1.15,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "nutella",
+            "imageLink": "img_nutella",
+            "price": 4.0,
+            "weight": "150kg",
+            "description": "Desfrute da irresistível Nutella, uma deliciosa pasta de avelã com cacau. Perfeita para passar no pão, panquecas ou simplesmente saborear com uma colher.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 3.50,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 4.10,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 3.80,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 3.90,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 3.95,
+                    "unit": "kg",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 3.70,
+                    "unit": "kg",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 3.85,
+                    "unit": "kg",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 4.00,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 4.20,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 3.60,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "leite integral",
+            "imageLink": "img_leite",
+            "price": 4.0,
+            "weight": "150kg",
+            "description": "Experimente o leite integral, uma fonte nutritiva de cálcio e proteínas. Ideal para beber puro, adicionar ao café ou preparar deliciosas receitas.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 3.90,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 4.30,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 4.00,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 4.10,
+                    "unit": "kg",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 4.20,
+                    "unit": "kg",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 3.85,
+                    "unit": "kg",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 4.05,
+                    "unit": "kg",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 4.15,
+                    "unit": "kg",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 4.25,
+                    "unit": "kg",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 4.05,
+                    "unit": "kg",
+                    "distance": "2.10 Km"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "cerveja Heineken Pack (12 unidades)",
+            "imageLink": "img_heineken_pack",
+            "price": 35.0,
+            "weight": "12 unidades",
+            "description": "Desfrute da qualidade premium da cerveja Heineken. Este pack com 12 unidades é perfeito para compartilhar momentos especiais com amigos.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 32.50,
+                    "unit": "pack",
+                    "distance": "2.10 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 36.00,
+                    "unit": "pack",
+                    "distance": "1.50 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 34.00,
+                    "unit": "pack",
+                    "distance": "2.30 Km"
+                },
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 35.50,
+                    "unit": "pack",
+                    "distance": "1.80 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 34.80,
+                    "unit": "pack",
+                    "distance": "2.00 Km"
+                },
+                {
+                    "market_name": "Makro",
+                    "price": 33.20,
+                    "unit": "pack",
+                    "distance": "2.40 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 33.90,
+                    "unit": "pack",
+                    "distance": "2.20 Km"
+                },
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 35.20,
+                    "unit": "pack",
+                    "distance": "1.90 Km"
+                },
+                {
+                    "market_name": "Mercadona",
+                    "price": 36.50,
+                    "unit": "pack",
+                    "distance": "1.70 Km"
+                },
+                {
+                    "market_name": "Lidl",
+                    "price": 33.70,
+                    "unit": "pack",
+                    "distance": "2.10 Km"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Arroz Integral (1kg)",
+            "imageLink": "img_placeholder",
+            "price": 5.99,
+            "weight": "1kg",
+            "description": "Arroz integral para uma dieta equilibrada e saudável.",
+            "prices": [
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 5.50,
+                    "unit": "pack",
+                    "distance": "2.0 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 6.20,
+                    "unit": "pack",
+                    "distance": "3.5 Km"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Feijão Preto (500g)",
+            "imageLink": "img_placeholder",
+            "price": 3.99,
+            "weight": "500g",
+            "description": "Feijão preto para preparar deliciosas receitas.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 4.50,
+                    "unit": "pack",
+                    "distance": "1.8 Km"
+                },
+                {
+                    "market_name": "Dia",
+                    "price": 4.20,
+                    "unit": "pack",
+                    "distance": "2.5 Km"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "name": "Leite Orgânico (1L)",
+            "imageLink": "img_placeholder",
+            "price": 4.49,
+            "weight": "1L",
+            "description": "Leite orgânico para uma opção mais saudável.",
+            "prices": [
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 4.00,
+                    "unit": "pack",
+                    "distance": "1.2 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 4.80,
+                    "unit": "pack",
+                    "distance": "2.8 Km"
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Whisky Single Malt (750ml)",
+            "imageLink": "img_placeholder",
+            "price": 49.99,
+            "weight": "750ml",
+            "description": "Whisky Single Malt para apreciadores de destilados finos.",
+            "prices": [
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 48.50,
+                    "unit": "bottle",
+                    "distance": "1.2 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 50.00,
+                    "unit": "bottle",
+                    "distance": "2.5 Km"
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Vodka Premium (1L)",
+            "imageLink": "img_placeholder",
+            "price": 29.99,
+            "weight": "1L",
+            "description": "Vodka Premium para preparar os melhores coquetéis.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 28.00,
+                    "unit": "bottle",
+                    "distance": "2.0 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 30.50,
+                    "unit": "bottle",
+                    "distance": "1.8 Km"
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Champagne Brut (750ml)",
+            "imageLink": "img_placeholder",
+            "price": 39.99,
+            "weight": "750ml",
+            "description": "Champagne Brut para celebrar momentos especiais.",
+            "prices": [
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 38.50,
+                    "unit": "bottle",
+                    "distance": "1.5 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 40.00,
+                    "unit": "bottle",
+                    "distance": "2.2 Km"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "name": "Arroz Integral (1kg)",
+            "imageLink": "img_placeholder",
+            "price": 5.99,
+            "weight": "1kg",
+            "description": "Arroz integral para uma alimentação saudável.",
+            "prices": [
+                {
+                    "market_name": "Supermercado Nacional",
+                    "price": 5.50,
+                    "unit": "pack",
+                    "distance": "1.2 Km"
+                },
+                {
+                    "market_name": "Carrefour",
+                    "price": 6.00,
+                    "unit": "pack",
+                    "distance": "2.0 Km"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "name": "Azeite de Oliva Extra Virgem (500ml)",
+            "imageLink": "img_placeholder",
+            "price": 12.99,
+            "weight": "500ml",
+            "description": "Azeite de oliva extra virgem para realçar o sabor dos pratos.",
+            "prices": [
+                {
+                    "market_name": "Assaí Atacadista",
+                    "price": 12.00,
+                    "unit": "bottle",
+                    "distance": "1.5 Km"
+                },
+                {
+                    "market_name": "Extra",
+                    "price": 13.50,
+                    "unit": "bottle",
+                    "distance": "2.5 Km"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "name": "Lentilhas (500g)",
+            "imageLink": "img_placeholder",
+            "price": 3.99,
+            "weight": "500g",
+            "description": "Lentilhas para uma fonte saudável de proteínas.",
+            "prices": [
+                {
+                    "market_name": "Pão de Açúcar",
+                    "price": 3.50,
+                    "unit": "pack",
+                    "distance": "1.8 Km"
+                },
+                {
+                    "market_name": "Walmart",
+                    "price": 4.00,
+                    "unit": "pack",
+                    "distance": "2.2 Km"
+                }
+            ]
+        }
+    ]
+}
