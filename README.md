@@ -24,7 +24,7 @@ https://www.figma.com/file/be2r7aKLJHzx9h1Hy1ZwbK/Project-Cifra?type=design&node
 No terminal:
 
 ```bash
-git clone https://github.com/PedroVeras18/projeto-cifra.git
+git clone https://github.com/AndreSerafin/cifra-project
 ```
 No arquivo do projeto
 ```bash
